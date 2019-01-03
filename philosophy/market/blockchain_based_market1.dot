@@ -1,0 +1,20 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+rankdir=LR; 
+
+A -> Market -> B; 
+B -> Market -> A; 
+	subgraph cluster_0 {
+		style=filled;
+		color=lightgrey;
+		node [style=filled,color=white];
+		Market;
+		Security [label="Atomic Security \n (Based on Cryptography)"]; 
+		Infrastructure [label="Decentralized Infrastructure \n (DB, ...)"];
+		Humans [label="No Middlemen (Humans)"];
+		label = "Value Exchange -Traditional Market";
+	}
+
+
+}
