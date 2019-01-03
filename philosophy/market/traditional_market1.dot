@@ -11,8 +11,8 @@ B -> Market -> A;
 		node [style=filled,color=white];
 		Market;
 		Security [label="On the borders Security"]; 
-		Infrastructure [label="(Centralized) Infrastructure \n (DB, ...)"];
-		Humans [label="(Middlemen) Humans"];
+		Infrastructure [label="Centralized Infrastructure \n (DB, ...)"];
+		Humans [label="Middlemen (Humans)"];
 		label = "Value Exchange -Traditional Market";
 	}
 
