@@ -9,9 +9,11 @@ import Data.Set
 import System.Environment
 import System.IO
 
+
 --
 -- Complete the handshake function below.
 -- NOTE: This is simply the area of the upper triangular part of a Square of Size N appunto 
+-- NOTE: Using `div` instead of / so to avoid returning a Fractional Type 
 --
 handshake n = n * (n-1) `div` 2
     --
