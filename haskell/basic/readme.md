@@ -21,7 +21,7 @@ Filter Positions in List
 - [Def](https://www.hackerrank.com/challenges/fp-filter-positions-in-a-list/problem)
 - [Sol](fp_basic_list1.hs)
 
-Adding Elements to a List 
+Defining a List 
 - [Def](https://www.hackerrank.com/challenges/fp-array-of-n-elements/problem)
 - [Sol](fp_basic_list3.hs)
 
