@@ -13,6 +13,15 @@ Hello World N Times
 - [Def](https://www.hackerrank.com/challenges/fp-hello-world-n-times/problem)
 - [Sol](fp_basic_loop1.hs)
 
+
+
+#### Lists 
+
+Filter Positions in List 
+- [Def](https://www.hackerrank.com/challenges/fp-filter-positions-in-a-list/problem)
+- [Sol](fp_basic_list1.hs)
+
+
 ### Math 
 
 #### Fundamental 
