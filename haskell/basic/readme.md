@@ -27,6 +27,16 @@ Defining a List
 
 
 
+Reverse List 
+- [Def](https://www.hackerrank.com/challenges/fp-reverse-a-list/problem)
+- [Sol](fp_basic_list5.hs)
+
+
+
+
+
+
+
 ### Math 
 
 #### Fundamental 
