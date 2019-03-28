@@ -11,6 +11,7 @@ Some Basic Exercises Regarding Haskell
 
 Handshake 
 - [Def](https://www.hackerrank.com/challenges/handshake/problem)
+- [Sol](math_fundamentals_handshake.hs)
 
 
 
