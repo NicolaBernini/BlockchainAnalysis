@@ -1,5 +1,8 @@
 {-# LANGUAGE FlexibleInstances, UndecidableInstances, DuplicateRecordFields #-}
 
+--- Original Link 
+--- https://www.hackerrank.com/challenges/handshake/problem
+
 module Main where
 
 import Control.Monad
