@@ -31,9 +31,9 @@ Reverse List
 - [Def](https://www.hackerrank.com/challenges/fp-reverse-a-list/problem)
 - [Sol](fp_basic_list5.hs)
 
-
-
-
+Elements Counting without using the specific operator 
+- [Def](https://www.hackerrank.com/challenges/fp-list-length/problem)
+- [Sol](fp_basic_list11.hs)
 
 
 
