@@ -39,7 +39,9 @@ Absolute Value in a list
 - [Def](https://www.hackerrank.com/challenges/fp-update-list/problem)
 - [Sol](fp_basic_list12.hs)
 
-
+Estimnating e^x with a series 
+- [Def](https://www.hackerrank.com/challenges/eval-ex/problem)
+- [Sol](fp_basic_list15.hs)
 
 ### Math 
 
