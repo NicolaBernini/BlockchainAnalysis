@@ -35,6 +35,10 @@ Elements Counting without using the specific operator
 - [Def](https://www.hackerrank.com/challenges/fp-list-length/problem)
 - [Sol](fp_basic_list11.hs)
 
+Absolute Value in a list 
+- [Def](https://www.hackerrank.com/challenges/fp-update-list/problem)
+- [Sol](fp_basic_list12.hs)
+
 
 
 ### Math 
