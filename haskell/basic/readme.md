@@ -56,3 +56,13 @@ Handshake
 
 
 
+
+#### Computation 
+
+Given a Poly compute Area under the Curve and the Volume related to x-axis revolution 
+- [Def](https://www.hackerrank.com/challenges/area-under-curves-and-volume-of-revolving-a-curv/problem)
+- [Sol](math_fundamentals_handshake.hs)
+
+
+
+
