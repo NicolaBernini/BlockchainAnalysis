@@ -49,7 +49,7 @@ Estimnating e^x with a series
 
 Handshake 
 - [Def](https://www.hackerrank.com/challenges/handshake/problem)
-- [Sol](math_fundamentals_handshake.hs)
+- [Sol](fp_math_area_vol1.hs)
 
 
 
