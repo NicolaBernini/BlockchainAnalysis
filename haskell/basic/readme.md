@@ -43,6 +43,14 @@ Estimnating e^x with a series
 - [Def](https://www.hackerrank.com/challenges/eval-ex/problem)
 - [Sol](fp_basic_list15.hs)
 
+Print List 
+- [Def](https://www.hackerrank.com/challenges/30-loops/problem)
+- [Sol](fp_basic_list21.hs)
+- Comments 
+  - Based on the idea of performing a Function to List Binding 
+
+
+
 ### Math 
 
 #### Fundamental 
