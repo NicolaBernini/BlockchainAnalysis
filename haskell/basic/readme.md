@@ -15,6 +15,8 @@ Hello World N Times
 
 
 
+
+
 #### Lists 
 
 Filter Positions in List 
@@ -48,6 +50,14 @@ Print List
 - [Sol](fp_basic_list21.hs)
 - Comments 
   - Based on the idea of performing a Function to List Binding 
+
+
+
+#### HashMaps 
+
+Develop an Address Book to store Name - Telephone Number pairs 
+- [Def](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)
+- [Sol](fp_basic_hashmap1.hs)
 
 
 
