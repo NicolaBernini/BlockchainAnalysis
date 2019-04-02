@@ -53,6 +53,20 @@ Print List
 
 
 
+#### Strings 
+
+In Haskell strings are equivalent to `[Char]` List of Chars so they can essentially be considered as Lists appunto 
+
+Given a String, print chars at odd and even positions separately 
+- [Def](https://www.hackerrank.com/challenges/30-review-loop/problem)
+- [Sol](fp_basic_str_odd_even1.hs)
+
+
+
+
+
+
+
 #### HashMaps 
 
 Develop an Address Book to store Name - Telephone Number pairs 
