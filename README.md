@@ -5,6 +5,12 @@ Analysis of Blockchain related Stuff
 
 # Updates 
 
+## 2019-04-02 
+
+- Added a [PR](https://github.com/NicolaBernini/BlockchainAnalysis/pull/7) with a set of solved Haskell challenges 
+  - Even if they are not directly related to Blockchain, they are good exercises to achieve, in perspective, enough knowledge to be applied to Blockchain Application building 
+
+
 ## 2019-03-06 
 
 - Added [Solidity Events and Remix](https://github.com/NicolaBernini/BlockchainAnalysis/tree/master/solidity/events)
