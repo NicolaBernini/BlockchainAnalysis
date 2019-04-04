@@ -5,6 +5,10 @@ Analysis of Blockchain related Stuff
 
 # Updates 
 
+## 2019-04-04 
+
+- Added a [PR](https://github.com/NicolaBernini/BlockchainAnalysis/pull/8) related to the implementation of a Haskell equivalent to [PHP Explode](https://www.php.net/manual/es/function.explode.php) which splits a string into a list of substrings according to a given separator char 
+
 ## 2019-04-02 
 
 - Added a [PR](https://github.com/NicolaBernini/BlockchainAnalysis/pull/7) with a set of solved Haskell challenges 
