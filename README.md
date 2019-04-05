@@ -5,6 +5,18 @@ Analysis of Blockchain related Stuff
 
 # Updates 
 
+## 2019-04-05 
+
+- Added a [PR](https://github.com/NicolaBernini/BlockchainAnalysis/pull/9) implementing in Haskell a Function providing Factors Decomposition for a given number so for example 
+
+
+
+```
+30 -> [2,3,5]
+60 -> [2,2,3,5]
+```
+
+
 ## 2019-04-04 
 
 - Added a [PR](https://github.com/NicolaBernini/BlockchainAnalysis/pull/8) related to the implementation of a Haskell equivalent to [PHP Explode](https://www.php.net/manual/es/function.explode.php) which splits a string into a list of substrings according to a given separator char 
