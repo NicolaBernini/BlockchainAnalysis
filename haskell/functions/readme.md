@@ -3,6 +3,14 @@
 
 Some Convenient Haskell Functions developed mostly as exercises 
 
+# Search 
+
+## Binary Search 
+
+Implement Binary Search on a Sorted List of a generic type 
+- [Sol](binary_search1.hs)
+
+
 # String Manipulation 
 
 ## PHP Explode 
