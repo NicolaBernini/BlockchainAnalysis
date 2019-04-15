@@ -4,6 +4,10 @@
 import Data.Array
 import Data.Maybe
 
+-- It is necessary to specify the generic type needs to be 
+--- of Eq class, as the '==' and '/=' operators are used 
+--- of Ord class, as the '<' operator is used 
+
 binary_search :: (Eq a, Ord a) => a -> [a] -> Int -> Int -> Maybe Int 
 
 
