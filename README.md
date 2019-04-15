@@ -5,6 +5,10 @@ Analysis of Blockchain related Stuff
 
 # Updates 
 
+## 2019-04-15 
+
+- Added [PR](https://github.com/NicolaBernini/BlockchainAnalysis/pull/10) implementing in Haskell the Binary Searach with Recursion and Maybe Monad on a List of Generic Type 
+
 ## 2019-04-05 
 
 - Added a [PR](https://github.com/NicolaBernini/BlockchainAnalysis/pull/9) implementing in Haskell a Function providing Factors Decomposition for a given number so for example 
