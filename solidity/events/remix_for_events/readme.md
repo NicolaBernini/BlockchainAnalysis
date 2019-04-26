@@ -15,7 +15,7 @@ It is also a useful way to perform runtime debugging
 
 - Now choose the `Test` Contract and Deploy it 
 
-![TargetContract](img/ReamixSolidityEvent2.png)
+![TargetContract](img/RemixSolidityEvent2.png)
 
 - Now run the specific `main()` Contract Method 
 
