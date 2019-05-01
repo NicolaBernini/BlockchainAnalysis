@@ -5,6 +5,10 @@ Analysis of Blockchain related Stuff
 
 # Updates 
 
+## 2019-05-01 
+
+Added a [PR](https://github.com/NicolaBernini/BlockchainAnalysis/pull/11) with some fixes and new resources in the [Blockchain Core - Section](https://github.com/NicolaBernini/BlockchainAnalysis/tree/master/blockchain_core) 
+
 ## 2019-04-15 
 
 - Added [PR](https://github.com/NicolaBernini/BlockchainAnalysis/pull/10) implementing in Haskell the Binary Searach with Recursion and Maybe Monad on a List of Generic Type 
