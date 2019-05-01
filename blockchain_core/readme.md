@@ -17,6 +17,18 @@ Some Details about the Blockchain Core Functionalities
 
 
 
+# Resources 
+
+[Ethereum.org](https://ethereum.org/)
+
+[EthHub](https://docs.ethhub.io/)
+
+[Consensys - Ethereum Dev Portal](https://ethereum.consensys.net/ethereum-dev-portal)
+
+
+
+
+
 
 
 Work in progress 
